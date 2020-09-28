@@ -1,2 +1,4 @@
 model_1 batch_size=512 lr=1e-8 f1=0.800298  num_layers=2
 model_2 batch_size=1024 lr=1e-8 f1=0.808494  num_layers=2
+
+
